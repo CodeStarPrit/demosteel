@@ -1,0 +1,62 @@
+.line-height-inc{
+    line-height: 2rem;
+}
+
+
+
+.jumbo-bg{
+    height: 90vh;
+    background-image : linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.8)), url(back_img.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.card{
+    border: none;
+}
+
+.card-footer{
+    background-color: brown;
+}
+
+
+.bg-img{
+    height: 70vh;
+    background-image : linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.8)), url(back_img.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.bg-trans{
+    background: transparent;
+}
+
+
+.anchor-style{
+    text-decoration: none;
+    display: block;
+    color: rgb(190, 190, 190);
+    margin-top: 0.5rem;
+}
+
+.anchor-style:hover{
+    color: grey;
+    text-decoration: none;
+}
+
+
+.elm-transition{
+    transition: all 0.5s ease;
+}
+
+.a-hover{
+    background-color: #007bff;
+    color: white;
+}
+
+.text-black{
+    color: rgb(45, 44, 44);
+}
